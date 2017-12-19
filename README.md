@@ -1,2 +1,2 @@
 # Avionics
-Project name: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
+Project Goal: Create a payload includes acceleration, spin rate, GPS sensors and a XBEE radio transmitter to send telemetry data to ground station
